@@ -1,3 +1,5 @@
+[![Node.js CI](https://github.com/fatih-erikli/universal-router/actions/workflows/node.js.yml/badge.svg)](https://github.com/fatih-erikli/universal-router/actions/workflows/node.js.yml)
+
 ### Universal router
 
 Simple but highly functioning router for client side and server side.
