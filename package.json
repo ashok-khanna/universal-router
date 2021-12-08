@@ -1,5 +1,5 @@
 {
-  "name": "universal-router",
+  "name": "use-universal-router",
   "version": "1.0.0",
   "description": "Univeral router for both client-side and server-side",
   "type": "module",
@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/fatih-erikli/universal-router"
+    "url": "github.com/fatih-erikli/use-universal-router"
   },
   "keywords": [
-    "universal-router"
+    "use-universal-router"
   ],
   "author": "Fatih Erikli",
   "license": "MIT",

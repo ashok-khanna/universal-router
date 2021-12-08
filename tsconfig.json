@@ -16,6 +16,6 @@
       "@types/jest"
     ]
   },
-  "include": ["universal-router"],
+  "include": ["use-universal-router"],
   "exclude": ["node_modules", "dist", "test"]
 }

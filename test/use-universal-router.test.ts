@@ -1,4 +1,4 @@
-import { useUniversalRouter } from '../universal-router';
+import { useUniversalRouter } from '../use-universal-router';
 
 describe('universal router', () => {
   test('simple router without arguments', async () => {
